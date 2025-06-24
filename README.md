@@ -68,3 +68,5 @@ README.md
 - Implementar un tema oscuro (dark mode)
 - Usar fuentes personalizadas de Google Fonts
 - Crear una sección de testimonios con estrellas de valoración
+
+[GitHub Pages link](https://gonzalott.github.io/web_project_coffeeshop/)
